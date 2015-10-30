@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.26)  20 NOV 2014 12:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.26)  20 NOV 2014 15:33
 entering extended mode
  %&-line parsing enabled.
 **cover_letter_1.tex
@@ -21,46 +21,69 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \indentedwidth=\dimen103
 \labelcount=\count79
 )
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
 (/usr/share/texmf-texlive/tex/latex/psnfss/newcent.sty
 Package: newcent 2005/04/12 PSNFSS-v9.2a (SPQR) 
 ) (./cover_letter_1.aux)
 \openout1 = `cover_letter_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Try loading font information for OT1+pnc on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+pnc on input line 36.
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1pnc.fd
 File: ot1pnc.fd 2001/06/04 font definitions for OT1/pnc.
 )
 LaTeX Font Info:    Font shape `OT1/pnc/bx/n' in size <12> not available
 (Font)              Font shape `OT1/pnc/b/n' tried instead on input line 52.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 98.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 98.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 98.
- [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+[1
 
 ] (./cover_letter_1.aux) ) 
 Here is how much of TeX's memory you used:
- 201 strings out of 493849
- 2393 string characters out of 1152846
- 50808 words of memory out of 3000000
- 3548 multiletter control sequences out of 15000+50000
- 8205 words of font info for 27 fonts, out of 3000000 for 9000
+ 492 strings out of 493849
+ 6066 string characters out of 1152846
+ 54951 words of memory out of 3000000
+ 3826 multiletter control sequences out of 15000+50000
+ 5766 words of font info for 19 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,6n,19p,222b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,6n,19p,222b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on cover_letter_1.dvi (1 page, 2788 bytes).
+Output written on cover_letter_1.dvi (1 page, 2728 bytes).

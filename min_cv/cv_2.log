@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.5.13)  19 AUG 2015 13:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.5.13)  30 OCT 2015 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -173,22 +173,22 @@ LaTeX Warning: Unused global option(s):
     [10pt].
 
 No file cv_2.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 \AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 36.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -197,70 +197,49 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count99
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
 
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 53.
+(Font)              <7> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 53.
-! You can't use `macro parameter character #' in horizontal mode.
-l.83 {\sl Languages (Medium):} Python, JS, Php, C#
-                                                  , C, Obj C, and Espa\~nol  \\
+(Font)              <5> on input line 45.
 
-? 
-! Interruption.
-<to be read again> 
-                   ,
-l.83 ... Languages (Medium):} Python, JS, Php, C#,
-                                                   C, Obj C, and Espa\~nol  \\
-? 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 99.
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 99.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
 
-Overfull \hbox (6.3955pt too wide) in paragraph at lines 136--137
-[]\OT1/cmr/m/n/10 Something about the At-las-sian suite of soft-ware in-clud-in
-g jira,confluence, cruiable 
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
  []
 
-
-! LaTeX Error: \begin{resume} on input line 53 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.156 \end{document}
-                    
-? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
 [1
 
-] [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 156.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 53 (\begingroup)
-### bottom level 
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 134.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+ ) 
 Here is how much of TeX's memory you used:
- 4361 strings out of 495029
- 65305 string characters out of 6181523
- 147279 words of memory out of 5000000
- 7597 multiletter control sequences out of 15000+600000
- 4906 words of font info for 18 fonts, out of 8000000 for 9000
+ 4365 strings out of 495029
+ 65343 string characters out of 6181523
+ 148279 words of memory out of 5000000
+ 7599 multiletter control sequences out of 15000+600000
+ 5373 words of font info for 20 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,8n,21p,186b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,204b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv_2.dvi (2 pages, 6212 bytes).
+Output written on cv_2.dvi (1 page, 5944 bytes).
